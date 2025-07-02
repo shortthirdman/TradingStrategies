@@ -8,9 +8,7 @@
 
 - [Evaluating Adaptive Kalman Filter Strategy Consistency with Rolling Backtests](https://pyquantlab.medium.com/evaluating-adaptive-kalman-filter-strategy-consistency-with-rolling-backtests-54cc669c640e)
 
-<!--
+- [VWAP Anchored Breakout Strategy: A Backtrader Implementation and Rolling Backtest](https://pyquantlab.medium.com/vwap-anchored-breakout-strategy-a-backtrader-implementation-and-rolling-backtest-08ac7d1791c1)
 
-- []()
+- [Butterworth Digital Filter for Trading? Backtesting with Python and Backtrader](https://pyquantlab.medium.com/butterworth-digital-filter-for-trading-backtesting-with-python-and-backtrader-b71de4d1c598)
 
-- []()
--->
