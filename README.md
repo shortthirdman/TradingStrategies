@@ -1,5 +1,10 @@
 # Trading Strategies
 
+
+---
+
+### Guides and References
+
 - [Volume Spread Analysis (VSA) Strategy: Quantifying Market Action for Trading Signals with Rolling Backtesting](https://pyquantlab.medium.com/volume-spread-analysis-vsa-strategy-quantifying-market-action-for-trading-signals-with-rolling-9aa57fb79fe9)
 
 - [Dynamic Trend Capture: Rolling Backtest of Polynomial Channel Breakout Strategy with Adaptive Trailing Stops](https://pyquantlab.medium.com/dynamic-trend-capture-rolling-backtest-of-polynomial-channel-breakout-strategy-with-adaptive-18d158c8ed3a)
@@ -12,3 +17,6 @@
 
 - [Butterworth Digital Filter for Trading? Backtesting with Python and Backtrader](https://pyquantlab.medium.com/butterworth-digital-filter-for-trading-backtesting-with-python-and-backtrader-b71de4d1c598)
 
+- [An Ornstein-Uhlenbeck Mean-Reversion Strategy with Python and Backtrader](https://pyquantlab.medium.com/an-ornstein-uhlenbeck-mean-reversion-strategy-with-python-and-backtrader-ca3129ca831a)
+
+---
